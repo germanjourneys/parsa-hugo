@@ -10,3 +10,4 @@ type = "post"
 +++
     Video
     {{< youtube oAa6wAdnsKo >}}
+    
