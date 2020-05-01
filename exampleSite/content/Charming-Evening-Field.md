@@ -1,13 +1,13 @@
 ---
-title: Jaoan
+title: Nepal
 date: 2020-02-06T09:46:10+00:00
 description: This is meta description
 type: post
-image: images/masonary-post/post-1.jpg
+image: "/images/asia.jpg"
 categories:
-- Food
+- Mountains
 tags:
 - Photos
-- Food
 
 ---
+Travel to Nepal
